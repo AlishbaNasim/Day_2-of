@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+    width: 8;
+    padding-left: 500px;
+    min-height: fit-content;
+
+}
+ body { 
+    background-color:crimson; 
+   /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+} 
+h2{
+    padding-left: 300px;
+}
+p,ul{
+    padding-left: 200px;
+}
+p,ul,li{
+    font:lighter;
+    color:aliceblue
+}
